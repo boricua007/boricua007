@@ -1,7 +1,7 @@
 
-# 👋 Hi there, I'm Daisy Viruet-Allen
+# Hi there, I'm Daisy Viruet-Allen
 
-Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, passionate about building efficient, scalable, and user-friendly software solutions. I work at Miami-Dade County, where I contribute to innovative projects that make a difference.
+Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, passionate about building efficient, scalable, and user-friendly software solutions. I currently work in local government where I contribute to innovative projects that make a difference.
 
 ## 💻 About Me
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, p
 - 🎯 **Focus Areas**: Full-stack development, automation, cloud solutions, and system integration
 - 🌱 **Currently Learning**: Advanced DevOps practices, container orchestration (Kubernetes), and AI integration
 - 🧠 **Tech Stack**:  
-`C#` | `.NET 9.0` | `ASP.NET Core` | `SQL` | `Azure` | `Git` | `REST APIs` | `Custom Middleware` | `Security Middleware` | `Kestrel` | `Async Programming`
+`C#` | `.NET 9.0` | `ASP.NET Core` | `Blazor` | `SQL` | `Azure` | `Git` | `REST APIs` | `Middleware` | `Async Programming`
 
 ## 🚀 Projects
 
