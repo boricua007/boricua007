@@ -12,9 +12,9 @@ Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, p
 -  **Tech Stack**:  
 `C#` | `.NET 9.0` | `ASP.NET Core` | `Blazor` | `SQL` | `Azure` | `Git` | `REST APIs` | `Middleware` | `Async Programming`
 
-## Projects
+## Project Portfolio
 
-Here you'll find a mix of personal experiments, professional tools, and collaborative projects. I enjoy solving real-world problems and continuously improving my craft.
+My GitHub repositories showcase a diverse range of work, including personal development projects, professional tools, and collaborative initiatives. I’m passionate about solving real-world challenges through technology and continuously strive to refine my skills and expand my expertise.
 
 ## Currently Learning
 
