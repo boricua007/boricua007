@@ -25,8 +25,8 @@ Continuously learning emerging trends and best practices in software engineering
 
 ## Connect
 
-- LinkedIn
-
+- LinkedIn: 
+<a href="https://www.linkedin.com/in/daisyviruetallen" rel="nofollow"> Daisy Viruet-Allen </a>
 
 ---
 
