@@ -25,7 +25,8 @@ Continuously learning emerging trends and best practices in software engineering
 
 ## Connect
 
-- [LinkedIn]([https://www.linkedin.commple.com](https://www.linkedin.com/in/daisyviruetallen) )
+- LinkedIn
+
 
 ---
 
