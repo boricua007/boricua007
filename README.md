@@ -18,10 +18,10 @@ My GitHub repositories showcase a diverse range of work, including personal deve
 
 ## Currently Learning
 
-Pursuing academic studies to deepen my understanding of software development and IT systems
-Expanding knowledge in advanced automation frameworks and modern development practices
-Enhancing proficiency in performance testing and secure middleware design
-Continuously learning emerging trends and best practices in software engineering and cloud technologies
+-  Pursuing academic studies to deepen my understanding of software development and IT systems
+-  Expanding knowledge in advanced automation frameworks and modern development practices
+-  Enhancing proficiency in performance testing and secure middleware design
+-  Continuously learning emerging trends and best practices in software engineering and cloud technologies
 
 ## Connect
 
