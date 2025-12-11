@@ -9,7 +9,8 @@ Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, p
 -  **Location**: Miami, Florida
 -  **Focus Areas**: Full-stack development, automation, cloud solutions, and system integration
 -  **Currently Learning**: Advanced DevOps practices, container orchestration (Kubernetes), and AI integration
--  **Tech Stack**:  
+-  **Tech Stack**:
+  
 `C#` | `.NET 9.0` | `ASP.NET Core` | `Blazor` | `SQL` | `Azure` | `Git` | `REST APIs` | `Middleware` | `Async Programming`
 
 ## Project Portfolio
