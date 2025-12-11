@@ -1,5 +1,5 @@
 
-# Hi there, I'm Daisy Viruet-Allen
+## **Learning. Building. Growing. | Daisy Viruet‑Allen**
 
 Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, passionate about building efficient, scalable, and user-friendly software solutions. I currently work in local government where I contribute to innovative projects that make a difference.
 
