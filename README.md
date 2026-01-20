@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm an **IT Software Developer** based in **Miami, FL**, p
 -  **Currently Learning**: Advanced DevOps practices, container orchestration (Kubernetes), and AI integration
 -  **Tech Stack**:
   
-`C#` | `.NET 9.0` | `ASP.NET Core` | `Blazor` | `SQL` | `Azure` | `Git` | `REST APIs` | `Middleware` | `Async Programming`
+`C#` | `.NET 9.0` | `ASP.NET Core` | `Blazor` | `SQL` | `Azure` | `Git` | `REST APIs` | `Middleware` | `Async Programming` | `Power BI` | `SSRS`
 
 ## Project Portfolio
 
